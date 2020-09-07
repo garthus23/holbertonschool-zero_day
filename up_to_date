@@ -1,0 +1,5 @@
+git push origin master		# push from local master to remote master
+git checkout -b update_script	# create branch  and switch
+git push origin update_script   # push local branch to remote branch
+git checkout master		# branch change
+git pull master origin		# pull master remote to local master
